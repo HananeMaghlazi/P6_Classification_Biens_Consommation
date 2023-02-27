@@ -1,5 +1,7 @@
 # P6_Classification_Biens_Consommation : Classifiez automatiquement des biens de consommation
 
+## Dans le cadre de la formation Data Scientist : Parcours en partenariat avec CentraleSupélec
+
 #### Enoncé : 
 • Surlaplacedemarché,desvendeurs proposent des articles à des acheteurs en postant une photo et une description.
 • L'attributiondelacatégoried'unarticle est effectuée manuellement par les vendeurs, et est donc peu fiable.
